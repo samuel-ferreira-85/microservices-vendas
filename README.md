@@ -34,6 +34,8 @@ Para executar o projeto em sua máquina local, siga as etapas abaixo:
 
 7. Acesse a documentação da API fornecida pelo Swagger para obter informações detalhadas sobre os endpoints e as operações disponíveis.
 
+8. Link do projeto sendo executado com a interface do Swagger: [projeto](https://www.youtube.com/watch?v=d9YZ181bjFE).
+
 ## Contribuição
 
 Contribuições são bem-vindas! Se você tiver alguma ideia de melhoria, correção de bugs ou quiser adicionar novas funcionalidades ao sistema de microsserviços, fique à vontade para abrir uma nova issue ou enviar um pull request para o repositório.
